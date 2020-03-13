@@ -1,0 +1,4 @@
+『 調べる体力のある時に調べたい用語 』
+
+<js>
+・getElementsByClassName ・getElementById ・querySelectorAll ・forEach
